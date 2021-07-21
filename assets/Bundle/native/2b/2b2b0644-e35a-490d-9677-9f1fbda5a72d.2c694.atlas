@@ -1,0 +1,76 @@
+
+guaiwu5.png
+size: 362,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang
+  rotate: true
+  xy: 3, 4
+  size: 151, 177
+  orig: 151, 177
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 183, 6
+  size: 65, 149
+  orig: 65, 149
+  offset: 0, 0
+  index: -1
+youdagebo
+  rotate: false
+  xy: 251, 36
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 273, 7
+  size: 26, 19
+  orig: 26, 21
+  offset: 0, 1
+  index: -1
+youxiaogebo
+  rotate: false
+  xy: 327, 113
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 295, 3
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+zouxiaotui
+  rotate: false
+  xy: 251, 95
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+zuodagebo
+  rotate: false
+  xy: 295, 43
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 251, 6
+  size: 27, 19
+  orig: 27, 20
+  offset: 0, 1
+  index: -1
+zuoxiaogebo
+  rotate: false
+  xy: 286, 99
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1

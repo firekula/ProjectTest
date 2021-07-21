@@ -1,0 +1,139 @@
+
+zhongdian.png
+size: 613,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1463-1
+  rotate: false
+  xy: 449, 453
+  size: 156, 155
+  orig: 156, 155
+  offset: 0, 0
+  index: -1
+1463-11
+  rotate: false
+  xy: 2, 542
+  size: 223, 232
+  orig: 223, 232
+  offset: 0, 0
+  index: -1
+1463-14
+  rotate: false
+  xy: 2, 776
+  size: 235, 244
+  orig: 235, 244
+  offset: 0, 0
+  index: -1
+1463-16
+  rotate: false
+  xy: 239, 780
+  size: 239, 240
+  orig: 239, 240
+  offset: 0, 0
+  index: -1
+1463-17
+  rotate: true
+  xy: 227, 553
+  size: 221, 220
+  orig: 221, 220
+  offset: 0, 0
+  index: -1
+1463-18
+  rotate: false
+  xy: 412, 123
+  size: 184, 173
+  orig: 184, 173
+  offset: 0, 0
+  index: -1
+1463-2
+  rotate: false
+  xy: 226, 166
+  size: 184, 172
+  orig: 184, 172
+  offset: 0, 0
+  index: -1
+1463-20
+  rotate: true
+  xy: 449, 610
+  size: 168, 162
+  orig: 168, 162
+  offset: 0, 0
+  index: -1
+1463-22
+  rotate: true
+  xy: 446, 298
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+1463-5
+  rotate: false
+  xy: 227, 340
+  size: 217, 211
+  orig: 217, 211
+  offset: 0, 0
+  index: -1
+1463-8
+  rotate: true
+  xy: 2, 314
+  size: 226, 222
+  orig: 226, 222
+  offset: 0, 0
+  index: -1
+1463-9
+  rotate: false
+  xy: 2, 88
+  size: 221, 224
+  orig: 221, 224
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 480, 786
+  size: 53, 117
+  orig: 56, 117
+  offset: 3, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 480, 841
+  size: 179, 125
+  orig: 179, 125
+  offset: 0, 0
+  index: -1
+houtui
+  rotate: false
+  xy: 199, 37
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+qiantui
+  rotate: false
+  xy: 341, 92
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 2
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 123, 16
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 225, 86
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1

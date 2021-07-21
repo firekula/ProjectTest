@@ -1,0 +1,62 @@
+
+guaiwu3.png
+size: 1055,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang
+  rotate: false
+  xy: 823, 111
+  size: 151, 177
+  orig: 151, 177
+  offset: 0, 0
+  index: -1
+shangbi
+  rotate: true
+  xy: 3, 6
+  size: 282, 469
+  orig: 283, 469
+  offset: 1, 0
+  index: -1
+shenzi
+  rotate: true
+  xy: 823, 3
+  size: 105, 147
+  orig: 136, 151
+  offset: 8, 4
+  index: -1
+tou
+  rotate: false
+  xy: 977, 63
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+xiaobi
+  rotate: false
+  xy: 475, 16
+  size: 345, 272
+  orig: 345, 272
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 1023, 25
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 973, 11
+  size: 47, 49
+  orig: 69, 49
+  offset: 16, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 977, 139
+  size: 70, 149
+  orig: 70, 149
+  offset: 0, 0
+  index: -1
